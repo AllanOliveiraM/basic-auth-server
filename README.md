@@ -1,0 +1,4 @@
+- instalar node
+- instalar yarn
+- rodar yarn install
+- yarn tsx main.ts
