@@ -33,3 +33,14 @@ async function MinhaFunçãoAssíncrona () {
 console.log('oi')
 
 MinhaFunçãoAssíncrona()
+
+
+
+
+// promises separadas
+// criar 3 promisses
+// 4s > resolve
+// 6s > resolve
+// 300ms > resolve
+
+// logar no console todos os dados ao mesmo tempo
